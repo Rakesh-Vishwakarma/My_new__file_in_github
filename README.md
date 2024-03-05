@@ -1,2 +1,2 @@
-# My_new__file_in_github
-offic_project_repo
+# My_new_file_in_github
+office_project_repo
